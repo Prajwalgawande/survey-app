@@ -31,6 +31,18 @@ const questions = [
     type: 'text',
     options: [],
   },
+  {
+    id:6,
+    text:'rate us on playstore or appstore',
+    type:'text',
+    options:['1','2','3','4','5'],
+  },
+  {
+    id: 7,
+    text: 'How easy is it to use our product?',
+    type: 'text',
+    options: [],
+  },
 ];
 
 const SurveyApp = () => {
